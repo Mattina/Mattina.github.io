@@ -1,6 +1,8 @@
-# 欢迎来到杨洲的个人网站!   ------still in builting
+# 欢迎来到杨洲的个人网站!   
 
-    ##Welcome to yangzhou's personal website!
+------still in builting
+
+##Welcome to yangzhou's personal website!
     
 created by yangzhou 9/28/2017
  
