@@ -7,6 +7,7 @@ You can use the [editor on GitHub](https://github.com/Mattina/yangzhou/edit/mast
 Welcome to 杨洲's BLOG!
 
 # Header 1
+[Teaching Examination](https://github.com/Mattina/yangzhou/edit/master/README.md)
 ## Header 2
 ### Header 3
 
