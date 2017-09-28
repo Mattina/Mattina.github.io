@@ -6,13 +6,6 @@ You can use the [editor on GitHub](https://github.com/Mattina/yangzhou/edit/mast
 
 Welcome to 杨洲's BLOG!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
