@@ -1,6 +1,6 @@
 # 欢迎来到杨洲的个人网站!   
 
-------still in builting
+------still in building
 
 ## Welcome to yangzhou's personal website!
     
