@@ -12,7 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-[Link](http://blog.csdn.net/yanzhenjie1003/article/details/51703370)
 ## Header 2
 ### Header 3
 
