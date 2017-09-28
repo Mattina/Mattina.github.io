@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome                 
+    created by yangzhou 9/28/2017
 This is my life!
 
 You can use the [editor on GitHub](https://github.com/Mattina/yangzhou/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -16,16 +17,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
